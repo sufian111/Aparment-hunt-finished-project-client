@@ -1,5 +1,5 @@
 ![image](https://i.ibb.co/6cS8vdH/Create-account.png)
-![image](https://i.ibb.co/Xksq8yC/Home.png)
+
 
 ### **Useful Links:**
 
