@@ -3,7 +3,7 @@
 
 ### **Useful Links:**
 
-### [LIVE SITE](https://apartment-hunter.netlify.app/)
+### [LIVE SITE](https://apartment-hunt-ltd.netlify.app/)
 
 # Apartment Hunt
 
