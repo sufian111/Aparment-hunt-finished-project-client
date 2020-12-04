@@ -1,0 +1,42 @@
+.serviceDiv {
+  width: 290px;
+  height: 260px;
+}
+
+.cardImage {
+  width: 80px;
+  height: 80px;
+}
+.cardTitle {
+  width: 256px;
+  height: 30px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+
+  /* identical to box height, or 150% */
+  text-align: center;
+  letter-spacing: 0.0015em;
+
+  color: #16322e;
+}
+
+.cardDescription {
+  width: 290px;
+  height: 108px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 28px;
+
+  /* or 175% */
+  text-align: center;
+  letter-spacing: 0.0015em;
+
+  color: #606268;
+}

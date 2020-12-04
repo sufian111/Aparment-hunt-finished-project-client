@@ -1,0 +1,52 @@
+.headerBg {
+  height: 446px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("../../../Image/images//Rectangle\ 13.png");
+  background-size: cover;
+  color: white;
+}
+.title {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 59px;
+
+  /* identical to box height */
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.searchInput {
+  width: 536px;
+  height: 50px;
+  background: #f1f6f4;
+  border-radius: 5px;
+}
+
+.button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 14px 46px;
+  color: white;
+  border: none;
+  background: #275a53;
+  border-radius: 5px;
+}
+.positionCenter {
+  position: relative;
+  padding-top: 13%;
+}
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .searchInput {
+    width: 336px;
+    height: 50px;
+    background: #f1f6f4;
+    border-radius: 5px;
+  }
+}

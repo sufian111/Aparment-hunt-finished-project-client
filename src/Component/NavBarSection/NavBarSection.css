@@ -1,0 +1,11 @@
+.button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 14px 46px;
+  color: white;
+  border: none;
+
+  background: #275a53;
+  border-radius: 5px;
+}

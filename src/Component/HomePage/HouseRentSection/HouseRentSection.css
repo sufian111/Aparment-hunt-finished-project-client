@@ -1,0 +1,13 @@
+.headLine {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 34px;
+  line-height: 50px;
+
+  /* or 147% */
+  text-align: center;
+  letter-spacing: 0.0015em;
+
+  color: #16322e;
+}
